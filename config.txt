@@ -1,3 +1,5 @@
 Some configurations that were checked in after init
 Need to pull this file down
 Adding some additional configurations
+
+Found a couple of more config values thare needed
